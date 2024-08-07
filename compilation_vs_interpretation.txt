@@ -1,0 +1,13 @@
+Compilation Process:
+    1. Converts entire source code into machine code before execution.
+    2. Done in a single step, resulting in an executable file.
+    3. Faster execution, as machine code is directly executed by the hardware.
+    4. Errors detected at compile-time, before execution.
+    5. Commonly used in languages like C and C++
+
+Interpretation Process:
+    1. Translates and executes code line-by-line or statement-by-statement.
+    2. Interpretation occurs every time the program is run.
+    3. Slower execution, as translation happens during runtime.
+    4. Errors detected at runtime, during execution.
+    5. Commonly used in languages like Python and JavaScript

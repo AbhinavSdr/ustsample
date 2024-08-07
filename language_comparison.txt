@@ -1,0 +1,17 @@
+Comparison: Python and Java
+
+Python
+    Strengths:
+        1. Clean and easy to read syntax
+        2. Code is more concise and requires fewer lines than java for same functionality
+        3. Fast development cycles due to concise code and availability of multiple libraries
+    Weaknesses:
+        1. Slower than compiled languages like Java due to interpreted nature
+
+Java
+    Strengths:
+        1. Faster execution since it's compiled language
+        2. Write once, run anywhere due to JVM
+    Weaknesses:
+        1. Complexity; more verbose syntax which makes it harder to learn and Write
+        2. Longer development cycles compared to Python
